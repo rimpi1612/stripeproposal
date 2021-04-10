@@ -2,6 +2,7 @@
 ![Stripe](https://stripe.com/img/v3/home/social.png)
 ## Stripe Description
 Stripe is an Irish-American financial services and software as a service company dual-headquartered in San Francisco, California and Dublin, Ireland. The company primarily offers payment processing software and application programming interfaces for e-commerce websites and mobile applications.
+
 **Contributors**: Manolo, Mouhamadou
 ### Stripe Case Study
 
